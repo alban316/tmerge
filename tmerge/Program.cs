@@ -11,6 +11,7 @@ namespace tmerge
         static void Main(string[] args)
         {
             Console.WriteLine("the quick brown fox");
+            Console.WriteLine("jumped over the lazy dog");
         }
     }
 }

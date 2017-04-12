@@ -10,6 +10,7 @@ namespace tmerge
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("the quick brown fox");
         }
     }
 }
